@@ -1,2 +1,10 @@
 # simon-game
-This program replicates the game functionality for Simon in JavaScript. The game itself is runned through HTML, CSS, &amp; JavaScript.
+This program replicates the game fucntionality for Simon in JavaScript. The game itself is runned through HTML, CSS, & JavaScript.
+Framework libraries such as JQuery was used in the creation.
+
+Note: This is a just a coding exercise/challenge for "The Complete 2020 Web Development
+      Bootcamp Course" on Udemy by Angela Yu.
+      
+Please feel free to check it the website with the link.
+
+Website URL: https://giordandelacruz.github.io/drum-kit/
