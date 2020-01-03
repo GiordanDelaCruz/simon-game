@@ -7,4 +7,4 @@ Note: This is a just a coding exercise/challenge for "The Complete 2020 Web Deve
       
 Please feel free to check it the website with the link.
 
-Website URL: 
+Website URL: https://giordandelacruz.github.io/simon-game/
